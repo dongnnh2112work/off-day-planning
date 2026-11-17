@@ -18,7 +18,7 @@ Dự án do **Howls** (agency event/activation) làm chủ.
 | Trạm | Chưa chốt; không gắn gì lên tài sản sở thú | Trạm di động Howls mang theo |
 | Vận hành | — | Giai đoạn 1: Howls chạy hộ. Giai đoạn 2 (ngoài MVP): khách tự chạy bằng mã PIN |
 
-**17/11/2026: idea B2C đã chốt là Summit Your Drawing** (xem progress/THU.md). Luật chơi B2C cũ (15 thẻ thú + quiz) trong bảng trên và demo ui-demo là bản cũ, cần làm lại theo idea mới. Hướng A hay B (hoặc B2C trước rồi B2B) **vẫn chưa chốt**. Xem [DECISIONS.md](DECISIONS.md).
+**17/11/2026: idea B2C đã chốt là Summit Your Drawing** (xem progress/THU.md). Luật chơi B2C cũ (15 thẻ thú + quiz) trong bảng trên và demo ui-demo là bản cũ, cần làm lại theo idea mới. **Hướng đã chốt 17/11: B2C trước, sau đó pilot** để xem hướng xử lý tiếp. Xem [DECISIONS.md](DECISIONS.md).
 
 Cả hai hướng dùng chung **một NFC core**: web/PWA, tag chứa URL + QR dự phòng, quest engine, định danh người chơi (Google login hoặc UID vòng tay), chống chạm trùng phía server, analytics, recap.
 
@@ -46,7 +46,7 @@ Tỷ lệ hoàn thành đoàn ≥ 70%, lỗi chạm < 5%, setup quest ≤ 1 gi�
 **Điều kiện dừng:** sau 2 pilot mà hoàn thành < 50% hoặc lỗi chạm > 10% thì sửa sản phẩm trước khi đi bán.
 
 ## Câu hỏi đang mở
-1. Hướng A hay B cho 3 tháng tới?
+1. ~~Hướng A hay B cho 3 tháng tới?~~ Đã chốt 17/11: B2C trước, sau đó pilot.
 2. Đoàn pilot đầu tiên là ai, ngày nào?
 3. Bản cho tour: mở trạm bằng GPS + QR, NFC chỉ làm điểm nhấn?
 
@@ -58,4 +58,4 @@ Repo này là **workspace planning** của dự án: context, timeline, quyết 
 
 ## Lịch sử sửa
 - 2026-11-11 · Bee · Bản đầu.
-- 2026-11-17 · Bee · Ghi quyết định chọn idea Summit Your Drawing.
+- 2026-11-17 · Bee · Ghi quyết định chọn idea Summit Your Drawing, hướng B2C trước rồi pilot.
