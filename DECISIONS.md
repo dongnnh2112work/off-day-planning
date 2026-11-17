@@ -9,3 +9,4 @@
 
 ## Lịch sử sửa
 - 2026-11-11 · Bee · Bản đầu.
+| 2026-11-17 | Idea B2C tại Thảo Cầm Viên đi theo **Summit Your Drawing** (của Thư): quét NFC ở chuồng, vẽ con vật 60s, hình vẽ chuyển động trên bản đồ, Wrapped cuối hành trình. Choo Zoo không đi tiếp ở giai đoạn này. | anh BeeNgyy | Đã chốt |

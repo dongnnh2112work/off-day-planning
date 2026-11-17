@@ -1,6 +1,6 @@
 # Context dự án Tap Tap
 
-> Đọc file này trước tiên nếu anh/chị/agent mới vào dự án. Cập nhật lần cuối: 11/11/2026.
+> Đọc file này trước tiên nếu anh/chị/agent mới vào dự án. Cập nhật lần cuối: 17/11/2026.
 
 ## Tap Tap là gì
 Tap Tap là trải nghiệm **chạm điện thoại để sưu tập**: người chơi chạm điện thoại vào thẻ/trạm NFC (hoặc quét QR dự phòng), một trang web mở ra (không cần cài app), hiện thẻ thú hoặc nhiệm vụ kèm câu đố. Trả lời đúng thì giữ thẻ / ghi điểm. Cuối hành trình có **recap kiểu Wrapped** để chia sẻ.
@@ -18,7 +18,7 @@ Dự án do **Howls** (agency event/activation) làm chủ.
 | Trạm | Chưa chốt; không gắn gì lên tài sản sở thú | Trạm di động Howls mang theo |
 | Vận hành | — | Giai đoạn 1: Howls chạy hộ. Giai đoạn 2 (ngoài MVP): khách tự chạy bằng mã PIN |
 
-**Đang nghiêng hướng B (pilot B2B)** nhưng **chưa chốt**. Xem [DECISIONS.md](DECISIONS.md).
+**17/11/2026: idea B2C đã chốt là Summit Your Drawing** (xem progress/THU.md). Luật chơi B2C cũ (15 thẻ thú + quiz) trong bảng trên và demo ui-demo là bản cũ, cần làm lại theo idea mới. Hướng A hay B (hoặc B2C trước rồi B2B) **vẫn chưa chốt**. Xem [DECISIONS.md](DECISIONS.md).
 
 Cả hai hướng dùng chung **một NFC core**: web/PWA, tag chứa URL + QR dự phòng, quest engine, định danh người chơi (Google login hoặc UID vòng tay), chống chạm trùng phía server, analytics, recap.
 
@@ -58,3 +58,4 @@ Repo này là **workspace planning** của dự án: context, timeline, quyết 
 
 ## Lịch sử sửa
 - 2026-11-11 · Bee · Bản đầu.
+- 2026-11-17 · Bee · Ghi quyết định chọn idea Summit Your Drawing.
