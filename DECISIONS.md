@@ -11,3 +11,4 @@
 - 2026-11-11 · Bee · Bản đầu.
 | 2026-11-17 | Idea B2C tại Thảo Cầm Viên đi theo **Summit Your Drawing** (của Thư): quét NFC ở chuồng, vẽ con vật 60s, hình vẽ chuyển động trên bản đồ, Wrapped cuối hành trình. Choo Zoo không đi tiếp ở giai đoạn này. | anh BeeNgyy | Đã chốt |
 | 2026-11-17 | Hướng sản phẩm: phát triển **B2C trước** (Summit Your Drawing tại Thảo Cầm Viên) để thu data và tìm lỗi NFC, **sau đó pilot** để xem hướng xử lý tiếp (B2B). | anh BeeNgyy | Đã chốt |
+| 2026-11-18 | Tên project chốt là **Off Day** (thay cho tên tạm Offđây; Summit Your Drawing là tên idea/cơ chế vẽ bên trong Off Day). | anh BeeNgyy | Đã chốt |

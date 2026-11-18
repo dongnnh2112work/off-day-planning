@@ -1,6 +1,8 @@
 # Context dự án Tap Tap
 
-> Đọc file này trước tiên nếu anh/chị/agent mới vào dự án. Cập nhật lần cuối: 17/11/2026.
+> **18/11/2026: tên project chốt là Off Day** (anh BeeNgyy). Tap Tap là tên team/nền tảng cũ; tài liệu mới dùng tên Off Day.
+
+> Đọc file này trước tiên nếu anh/chị/agent mới vào dự án. Cập nhật lần cuối: 18/11/2026.
 
 ## Tap Tap là gì
 Tap Tap là trải nghiệm **chạm điện thoại để sưu tập**: người chơi chạm điện thoại vào thẻ/trạm NFC (hoặc quét QR dự phòng), một trang web mở ra (không cần cài app), hiện thẻ thú hoặc nhiệm vụ kèm câu đố. Trả lời đúng thì giữ thẻ / ghi điểm. Cuối hành trình có **recap kiểu Wrapped** để chia sẻ.
@@ -59,3 +61,4 @@ Repo này là **workspace planning** của dự án: context, timeline, quyết 
 ## Lịch sử sửa
 - 2026-11-11 · Bee · Bản đầu.
 - 2026-11-17 · Bee · Ghi quyết định chọn idea Summit Your Drawing, hướng B2C trước rồi pilot.
+- 2026-11-18 · Bee · Ghi quyết định tên project là Off Day.
