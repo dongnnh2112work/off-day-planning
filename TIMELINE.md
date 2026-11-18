@@ -1,10 +1,11 @@
-# Timeline Tap Tap tới 31/12/2026 (hướng B: pilot B2B)
+# Timeline Off Day tới 31/12/2026
 
-> Cập nhật 11/11/2026. Đã thống nhất: **W1 tháng 12 (30/11–6/12) internal launch**, **W2 tháng 12 (7–13/12) release**. Bản nháp, sẽ chỉnh khi chốt hướng.
+> Cập nhật 18/11/2026: sản phẩm free, B2C chỉ launch; xin phép TCV sau pilot internal; proposal B2B W3–W4/12.
+> Bản trước 11/11/2026. Đã thống nhất: **W1 tháng 12 (30/11–6/12) internal launch**, **W2 tháng 12 (7–13/12) release**. Bản nháp, sẽ chỉnh khi chốt hướng.
 
 ```mermaid
 gantt
-  title Tap Tap tới 31/12/2026
+  title Off Day tới 31/12/2026
   dateFormat YYYY-MM-DD
   axisFormat %d/%m
   section Chiến lược
@@ -20,6 +21,8 @@ gantt
   Release / buổi pilot đầu (W2/12)    :crit, d2, 2026-12-07, 7d
   section Sau release
   Sửa lỗi + thêm 1–2 buổi             :e1, 2026-12-14, 14d
+  Xin phép TCV + phương án B          :e3, 2026-12-07, 14d
+  Proposal B2B (W3–W4/12)             :e4, 2026-12-14, 14d
   Báo cáo / case study                :e2, 2026-12-21, 11d
 ```
 
@@ -32,8 +35,8 @@ gantt
 | W4/11 | 23–29/11 | Lõi NFC xong; Host MVP; **29/11 test NFC 5–10 máy xong** |
 | W1/12 | 30/11–6/12 | **Internal launch**: chạy thử nội bộ end-to-end; Host MVP sẵn sàng; **6/12 chốt đoàn pilot** |
 | W2/12 | 7–13/12 | **Release**: buổi pilot đầu với đoàn thật |
-| W3/12 | 14–20/12 | Sửa theo góp ý; thêm 1–2 buổi |
-| W4/12 | 21–27/12 | Thêm buổi nếu có; viết báo cáo |
+| W3/12 | 14–20/12 | Sửa theo góp ý; thêm 1–2 buổi; bắt đầu proposal B2B |
+| W4/12 | 21–27/12 | Thêm buổi nếu có; viết báo cáo; xong proposal B2B |
 | Cuối | 28–31/12 | **31/12 số liệu pilot + báo cáo/case** |
 
 ## Mốc
@@ -44,6 +47,8 @@ gantt
 | 29/11 | Test NFC trên 5–10 máy thật xong | Kế hoạch |
 | 6/12 | Internal launch xong; Host MVP sẵn sàng; chốt đoàn pilot | Kế hoạch (đoàn: cần chốt) |
 | 7–13/12 | Release / buổi pilot đầu | Kế hoạch |
+| Sau 6/12 | Xin phép TCV (sau khi xong sản phẩm và pilot internal) | Kế hoạch |
+| 14–27/12 | Proposal B2B | Kế hoạch |
 | 31/12 | Số liệu pilot + báo cáo | Kế hoạch |
 
 ## Rủi ro lịch
@@ -53,3 +58,4 @@ gantt
 
 ## Lịch sử sửa
 - 2026-11-11 · Bee · Bản đầu.
+- 2026-11-18 · Bee · Theo anh BeeNgyy: B2C free chỉ launch, dời xin phép TCV ra sau pilot internal, thêm proposal B2B W3–W4/12.
