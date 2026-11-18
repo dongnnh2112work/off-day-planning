@@ -5,9 +5,9 @@ Làm cho: Thư (Art & Social)
 ## 2026-11-18
 - Đã xong:
   - Họp 16/11: team chốt chọn idea của Thư (Submit Your Drawing) cho dự án, Nhi phụ trách social plan
-  - Dự án đổi tên thành **Offđây**
+  - Dự án chốt tên **Off Day** (anh BeeNgyy chốt 18/11, thay tên tạm Offđây)
   - Hoàn thành Demo v5, giữ nguyên không chỉnh thêm: [demo-v5/](THU/demo-v5/), [danh sách 16 trang](THU/demo-v5-danh-sach-trang.md), [screenshots-v5/](THU/screenshots-v5/)
-- Đang làm: cập nhật tài liệu theo tên mới Offđây
+- Đang làm: cập nhật tài liệu theo tên mới Off Day
 - Kế tiếp: phối hợp với social plan của Nhi; tuần sau lên bản MVP
 - Vướng / rủi ro: chưa có
 
